@@ -1,0 +1,1 @@
+This file is a library of validation form in javascript
